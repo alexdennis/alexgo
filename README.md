@@ -1,1 +1,3 @@
-# alexgo
+# AlexGo
+
+Sounds like AlphaGo
